@@ -361,7 +361,7 @@ rule-providers:
     path: ./ruleset/private_ip.mrs
   cn_ip:
     <<: *ipcidr_mrs
-    url: "https://jsd.onmicrosoft.cn/gh/Kwisma/ASN-List@main/country/CN/CN_IP.mrs"
+    url: "https://cdn.jsdmirror.com/gh/Kwisma/ASN-List@main/country/CN/CN_IP.mrs"
     path: ./ruleset/cn_ip.mrs
   google_ip:
     <<: *ipcidr_mrs

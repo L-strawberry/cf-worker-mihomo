@@ -1458,7 +1458,7 @@ rule-providers:
 
   cn_ip:
     <<: *ipcidr_mrs
-    url: "https://jsd.onmicrosoft.cn/gh/Kwisma/ASN-List@main/country/CN/CN_IP.mrs"
+    url: "https://cdn.jsdmirror.com/gh/Kwisma/ASN-List@main/country/CN/CN_IP.mrs"
     path: ./ruleset/CN_IP.mrs
 
   4gtv_domain:

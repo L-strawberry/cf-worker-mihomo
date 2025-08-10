@@ -46,7 +46,7 @@ route:
     - { tag: ads_domain, type: remote, url: https://cdn.jsdmirror.com/gh/DustinWin/ruleset_geodata@sing-box-ruleset/ads.srs, format: binary, download_detour: 🎯 全球直连 }
     - { tag: bilibili_domain, type: remote, url: https://cdn.jsdmirror.com/gh/DustinWin/ruleset_geodata@sing-box-ruleset/bilibili.srs, format: binary, download_detour: 🎯 全球直连 }
     - { tag: cn_domain, type: remote, url: https://cdn.jsdmirror.com/gh/DustinWin/ruleset_geodata@sing-box-ruleset/cn.srs, format: binary, download_detour: 🎯 全球直连 }
-    - { tag: cn_ip, type: remote, url: https://jsd.onmicrosoft.cn/gh/Kwisma/ASN-List@main/country/CN/CN_IP.srs, format: binary, download_detour: 🎯 全球直连 }
+    - { tag: cn_ip, type: remote, url: https://cdn.jsdmirror.com/gh/Kwisma/ASN-List@main/country/CN/CN_IP.srs, format: binary, download_detour: 🎯 全球直连 }
     - { tag: disney_domain, type: remote, url: https://cdn.jsdmirror.com/gh/DustinWin/ruleset_geodata@sing-box-ruleset/disney.srs, format: binary, download_detour: 🎯 全球直连 }
     - { tag: games_domain, type: remote, url: https://cdn.jsdmirror.com/gh/DustinWin/ruleset_geodata@sing-box-ruleset/games.srs, format: binary, download_detour: 🎯 全球直连 }
     - { tag: games_cn_domain, type: remote, url: https://cdn.jsdmirror.com/gh/DustinWin/ruleset_geodata@sing-box-ruleset/games-cn.srs, format: binary, download_detour: 🎯 全球直连 }

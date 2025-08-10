@@ -251,7 +251,7 @@ route:
     - { tag: ads_domain, type: remote, url: https://cdn.jsdmirror.com/gh/TG-Twilight/AWAvenue-Ads-Rule@main/Filters/AWAvenue-Ads-Rule-Singbox.srs, format: binary, download_detour: 🎯 全球直连 }
     - { tag: private_ip, type: remote, url: https://cdn.jsdmirror.com/gh/MetaCubeX/meta-rules-dat@sing/geo/geoip/private.srs, format: binary, download_detour: 🎯 全球直连 }
     - { tag: private_domain, type: remote, url: https://cdn.jsdmirror.com/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/private.srs, format: binary, download_detour: 🎯 全球直连 }
-    - { tag: cn_ip, type: remote, url: https://jsd.onmicrosoft.cn/gh/Kwisma/ASN-List@main/country/CN/CN_IP.srs, format: binary, download_detour: 🎯 全球直连 }
+    - { tag: cn_ip, type: remote, url: https://cdn.jsdmirror.com/gh/Kwisma/ASN-List@main/country/CN/CN_IP.srs, format: binary, download_detour: 🎯 全球直连 }
     - { tag: biliintl_domain, type: remote, format: binary, url: https://cdn.jsdmirror.com/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/biliintl.srs, download_detour: 🎯 全球直连 }
     - { tag: 18comic_domain, type: remote, format: binary, url: https://cdn.jsdmirror.com/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/18comic.srs, download_detour: 🎯 全球直连 }
     - { tag: tor_domain, type: remote, format: binary, url: https://cdn.jsdmirror.com/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/tor.srs, download_detour: 🎯 全球直连 }
