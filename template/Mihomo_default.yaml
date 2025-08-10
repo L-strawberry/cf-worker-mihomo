@@ -296,7 +296,7 @@ rule-providers:
     path: ./ruleset/STUN_Domain.mrs
   cn_ip:
     <<: *ipcidr_mrs
-    url: "https://cdn.jsdmirror.com/gh/Kwisma/clash-rules@release/cncidr.mrs"
+    url: "https://jsd.onmicrosoft.cn/gh/Kwisma/ASN-List@main/country/CN/CN_IP.mrs"
     path: ./ruleset/CN_IP.mrs
   private_domain:
     <<: *domain_mrs
